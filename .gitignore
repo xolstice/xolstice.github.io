@@ -1,0 +1,26 @@
+.DS_Store
+.jekyll
+.bundle
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+
+
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-metadata
+
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
+
+*.iml
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
