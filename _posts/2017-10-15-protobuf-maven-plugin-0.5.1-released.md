@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maven Protocol Buffers Plugin 0.5.1 Released
+author: sergei
 ---
 
 We are happy to announce a new release of Maven Protocol Buffers Plugin,
